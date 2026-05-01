@@ -1,0 +1,22 @@
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\bin\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.exe
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\bin\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.deps.json
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\bin\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.runtimeconfig.json
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\bin\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.dll
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\bin\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.pdb
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\bin\Debug\net10.0-windows\MySqlConnector.dll
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.vbproj.AssemblyReference.cache
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem_Manajemen_Toko_Parfum.Form1.resources
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.vbproj.GenerateResource.cache
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.AssemblyInfoInputs.cache
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.AssemblyInfo.vb
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.vbproj.CoreCompileInputs.cache
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.sourcelink.json
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem M.EE3AD776.Up2Date
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.dll
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\refint\Sistem Manajemen Toko Parfum.dll
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.pdb
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem Manajemen Toko Parfum.genruntimeconfig.cache
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\ref\Sistem Manajemen Toko Parfum.dll

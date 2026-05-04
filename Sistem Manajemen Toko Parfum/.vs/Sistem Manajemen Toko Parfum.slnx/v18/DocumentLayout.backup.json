@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\forminventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:forminventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\forminventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:forminventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\connectionmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:connectionmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{ACD46970-383C-4114-A554-A2D91153DF2F}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\moduleparfum.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:moduleparfum.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,73 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataModule.vb",
-              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\DataModule.vb",
-              "RelativeDocumentMoniker": "DataModule.vb",
-              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\DataModule.vb",
-              "RelativeToolTip": "DataModule.vb",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAkwIkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-01T01:00:21.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConnectionModule.vb",
-              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\ConnectionModule.vb",
-              "RelativeDocumentMoniker": "ConnectionModule.vb",
-              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\ConnectionModule.vb",
-              "RelativeToolTip": "ConnectionModule.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-01T00:59:44.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ValidationModule.vb",
-              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\ValidationModule.vb",
-              "RelativeDocumentMoniker": "ValidationModule.vb",
-              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\ValidationModule.vb",
-              "RelativeToolTip": "ValidationModule.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-01T00:57:11.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\Form1.vb",
-              "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\Form1.vb",
-              "RelativeToolTip": "Form1.vb",
-              "ViewState": "AgIAANgAAAAAAAAAAAAkwOcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-01T00:56:28.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.vb",
-              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\Form1.Designer.vb",
-              "RelativeDocumentMoniker": "Form1.Designer.vb",
-              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\Form1.Designer.vb",
-              "RelativeToolTip": "Form1.Designer.vb",
-              "ViewState": "AgIAAAEDAAAAAAAAAAAAwBgDAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-01T00:55:39.294Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -111,7 +46,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormInventory.vb",
+              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\FormInventory.vb",
+              "RelativeDocumentMoniker": "FormInventory.vb",
+              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\FormInventory.vb",
+              "RelativeToolTip": "FormInventory.vb",
+              "ViewState": "AgIAALABAAAAAAAAAAAAAL4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-04T14:20:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-04T14:20:01.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ModuleParfum.vb",
+              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\ModuleParfum.vb",
+              "RelativeDocumentMoniker": "ModuleParfum.vb",
+              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\ModuleParfum.vb",
+              "RelativeToolTip": "ModuleParfum.vb",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-04T14:17:02.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInventory.vb [Design]",
+              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\FormInventory.vb",
+              "RelativeDocumentMoniker": "FormInventory.vb",
+              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\FormInventory.vb [Design]",
+              "RelativeToolTip": "FormInventory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-04T14:14:25.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataModule.vb",
+              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\DataModule.vb",
+              "RelativeDocumentMoniker": "DataModule.vb",
+              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\DataModule.vb",
+              "RelativeToolTip": "DataModule.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-01T01:00:21.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",

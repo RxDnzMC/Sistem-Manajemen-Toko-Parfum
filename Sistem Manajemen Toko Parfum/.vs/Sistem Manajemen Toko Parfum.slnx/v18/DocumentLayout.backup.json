@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\cartitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:cartitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\cartitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:cartitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\cartitem.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:cartitem.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\formkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:formkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\productcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:productcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\productcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:productcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\sidebarnavigation.vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:sidebarnavigation.vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\orderfooter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:orderfooter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\cartitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:cartitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -29,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\forminventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:forminventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\formkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|solutionrelative:formkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D71BB25-F4D2-2E59-1C00-3741ED667ED3}|Sistem Manajemen Toko Parfum.vbproj|d:\\sistem-manajemen-toko-parfum\\sistem manajemen toko parfum\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,58 +62,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CartItem.vb",
-              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\CartItem.vb",
-              "RelativeDocumentMoniker": "CartItem.vb",
-              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\CartItem.vb",
-              "RelativeToolTip": "CartItem.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-06T04:25:38.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CartItem.Designer.vb",
-              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\CartItem.Designer.vb",
-              "RelativeDocumentMoniker": "CartItem.Designer.vb",
-              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\CartItem.Designer.vb",
-              "RelativeToolTip": "CartItem.Designer.vb",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAwJQAAAAJAAAAAAAAAA==",
+              "Title": "SidebarNavigation.vb.vb [Design]",
+              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\SidebarNavigation.vb.vb",
+              "RelativeDocumentMoniker": "SidebarNavigation.vb.vb",
+              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\SidebarNavigation.vb.vb [Design]",
+              "RelativeToolTip": "SidebarNavigation.vb.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-06T04:25:10.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartItem.vb [Design]",
-              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\CartItem.vb",
-              "RelativeDocumentMoniker": "CartItem.vb",
-              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\CartItem.vb [Design]",
-              "RelativeToolTip": "CartItem.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-06T04:24:46.066Z",
+              "WhenOpened": "2026-05-06T09:24:36.454Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductCard.vb",
-              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\ProductCard.vb",
-              "RelativeDocumentMoniker": "ProductCard.vb",
-              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\ProductCard.vb",
-              "RelativeToolTip": "ProductCard.vb",
-              "ViewState": "AgIAADgAAAAAAAAAAAAuwCkAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OrderFooter.vb [Design]",
+              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\OrderFooter.vb",
+              "RelativeDocumentMoniker": "OrderFooter.vb",
+              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\OrderFooter.vb [Design]",
+              "RelativeToolTip": "OrderFooter.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-06T04:06:44.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T09:16:22.629Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProductCard.vb [Design]",
               "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\ProductCard.vb",
               "RelativeDocumentMoniker": "ProductCard.vb",
@@ -129,14 +98,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "FormKasir.vb [Design]",
               "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\FormKasir.vb",
               "RelativeDocumentMoniker": "FormKasir.vb",
-              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\FormKasir.vb [Design]",
-              "RelativeToolTip": "FormKasir.vb [Design]",
+              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\FormKasir.vb [Design]*",
+              "RelativeToolTip": "FormKasir.vb [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-05-06T03:35:50.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.vb [Design]",
+              "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\CartItem.vb",
+              "RelativeDocumentMoniker": "CartItem.vb",
+              "ToolTip": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\CartItem.vb [Design]",
+              "RelativeToolTip": "CartItem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-06T04:24:46.066Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -161,12 +142,11 @@
               "RelativeToolTip": "DataModule.vb",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-01T01:00:21.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T01:00:21.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",

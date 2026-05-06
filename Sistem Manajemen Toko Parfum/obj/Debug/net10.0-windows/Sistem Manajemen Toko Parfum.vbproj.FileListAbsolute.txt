@@ -24,3 +24,5 @@ D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-w
 D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem_Manajemen_Toko_Parfum.FormKasir.resources
 D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem_Manajemen_Toko_Parfum.ProductCard.resources
 D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem_Manajemen_Toko_Parfum.CartItem.resources
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem_Manajemen_Toko_Parfum.OrderFooter.resources
+D:\Sistem-Manajemen-Toko-Parfum\Sistem Manajemen Toko Parfum\obj\Debug\net10.0-windows\Sistem_Manajemen_Toko_Parfum.SidebarNavigation.resources

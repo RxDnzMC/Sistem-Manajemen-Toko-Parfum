@@ -25,18 +25,27 @@ Partial Class FormKasir
         PanelSidebar = New Panel()
         PanelCurrentOrder = New Panel()
         FlowLayoutPanelCartItems = New FlowLayoutPanel()
+        CartItem1 = New CartItem()
         PanelOrderFooter = New Panel()
+        OrderFooter1 = New OrderFooter()
         PanelGallery = New Panel()
         FlowLayoutPanelProducts = New FlowLayoutPanel()
         PanelHeaderGallery = New Panel()
+        ProductCard1 = New ProductCard()
         LabelTitle = New Label()
+        SidebarNavigation1 = New SidebarNavigation()
+        PanelSidebar.SuspendLayout()
         PanelCurrentOrder.SuspendLayout()
+        FlowLayoutPanelCartItems.SuspendLayout()
+        PanelOrderFooter.SuspendLayout()
         PanelGallery.SuspendLayout()
+        PanelHeaderGallery.SuspendLayout()
         SuspendLayout()
         ' 
         ' PanelSidebar
         ' 
         PanelSidebar.BackColor = Color.White
+        PanelSidebar.Controls.Add(SidebarNavigation1)
         PanelSidebar.Dock = DockStyle.Left
         PanelSidebar.Location = New Point(0, 0)
         PanelSidebar.Margin = New Padding(4, 5, 4, 5)
@@ -59,6 +68,7 @@ Partial Class FormKasir
         ' FlowLayoutPanelCartItems
         ' 
         FlowLayoutPanelCartItems.AutoScroll = True
+        FlowLayoutPanelCartItems.Controls.Add(CartItem1)
         FlowLayoutPanelCartItems.Dock = DockStyle.Fill
         FlowLayoutPanelCartItems.Location = New Point(0, 0)
         FlowLayoutPanelCartItems.Margin = New Padding(4, 5, 4, 5)
@@ -66,14 +76,34 @@ Partial Class FormKasir
         FlowLayoutPanelCartItems.Size = New Size(475, 743)
         FlowLayoutPanelCartItems.TabIndex = 0
         ' 
+        ' CartItem1
+        ' 
+        CartItem1.BackColor = Color.White
+        CartItem1.Location = New Point(0, 0)
+        CartItem1.Margin = New Padding(0, 0, 0, 17)
+        CartItem1.Name = "CartItem1"
+        CartItem1.Size = New Size(608, 156)
+        CartItem1.TabIndex = 0
+        ' 
         ' PanelOrderFooter
         ' 
+        PanelOrderFooter.Controls.Add(OrderFooter1)
         PanelOrderFooter.Dock = DockStyle.Bottom
         PanelOrderFooter.Location = New Point(0, 743)
         PanelOrderFooter.Margin = New Padding(4, 5, 4, 5)
         PanelOrderFooter.Name = "PanelOrderFooter"
         PanelOrderFooter.Size = New Size(475, 312)
         PanelOrderFooter.TabIndex = 1
+        ' 
+        ' OrderFooter1
+        ' 
+        OrderFooter1.BackColor = Color.White
+        OrderFooter1.Dock = DockStyle.Fill
+        OrderFooter1.Location = New Point(0, 0)
+        OrderFooter1.Margin = New Padding(4, 5, 4, 5)
+        OrderFooter1.Name = "OrderFooter1"
+        OrderFooter1.Size = New Size(475, 312)
+        OrderFooter1.TabIndex = 0
         ' 
         ' PanelGallery
         ' 
@@ -100,6 +130,7 @@ Partial Class FormKasir
         ' 
         ' PanelHeaderGallery
         ' 
+        PanelHeaderGallery.Controls.Add(ProductCard1)
         PanelHeaderGallery.Dock = DockStyle.Top
         PanelHeaderGallery.Location = New Point(0, 0)
         PanelHeaderGallery.Margin = New Padding(4, 5, 4, 5)
@@ -107,12 +138,31 @@ Partial Class FormKasir
         PanelHeaderGallery.Size = New Size(850, 1250)
         PanelHeaderGallery.TabIndex = 0
         ' 
+        ' ProductCard1
+        ' 
+        ProductCard1.BackColor = Color.White
+        ProductCard1.Location = New Point(0, 0)
+        ProductCard1.Margin = New Padding(21, 25, 21, 25)
+        ProductCard1.Name = "ProductCard1"
+        ProductCard1.Size = New Size(464, 709)
+        ProductCard1.TabIndex = 0
+        ' 
         ' LabelTitle
         ' 
         LabelTitle.Location = New Point(0, 0)
         LabelTitle.Name = "LabelTitle"
         LabelTitle.Size = New Size(100, 23)
         LabelTitle.TabIndex = 0
+        ' 
+        ' SidebarNavigation1
+        ' 
+        SidebarNavigation1.BackColor = Color.White
+        SidebarNavigation1.Dock = DockStyle.Fill
+        SidebarNavigation1.Location = New Point(0, 0)
+        SidebarNavigation1.Margin = New Padding(4, 5, 4, 5)
+        SidebarNavigation1.Name = "SidebarNavigation1"
+        SidebarNavigation1.Size = New Size(275, 1055)
+        SidebarNavigation1.TabIndex = 0
         ' 
         ' FormKasir
         ' 
@@ -127,8 +177,12 @@ Partial Class FormKasir
         StartPosition = FormStartPosition.CenterScreen
         Text = "Aura Perfumerie - POS"
         WindowState = FormWindowState.Maximized
+        PanelSidebar.ResumeLayout(False)
         PanelCurrentOrder.ResumeLayout(False)
+        FlowLayoutPanelCartItems.ResumeLayout(False)
+        PanelOrderFooter.ResumeLayout(False)
         PanelGallery.ResumeLayout(False)
+        PanelHeaderGallery.ResumeLayout(False)
         ResumeLayout(False)
 
     End Sub
@@ -141,4 +195,8 @@ Partial Class FormKasir
     Friend WithEvents FlowLayoutPanelCartItems As System.Windows.Forms.FlowLayoutPanel
     Friend WithEvents PanelOrderFooter As System.Windows.Forms.Panel
     Friend WithEvents LabelTitle As System.Windows.Forms.Label
+    Friend WithEvents CartItem1 As CartItem
+    Friend WithEvents OrderFooter1 As OrderFooter
+    Friend WithEvents ProductCard1 As ProductCard
+    Friend WithEvents SidebarNavigation1 As SidebarNavigation
 End Class

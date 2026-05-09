@@ -83,8 +83,13 @@ Public Class Form1
             Dim invForm As New FormInventory()
             invForm.ShowDialog()
             Me.Close() ' Menutup aplikasi sepenuhnya jika form inventory ditutup
+        ElseIf username = "Cashier" AndAlso seckey = "1234" Then
+            Me.Hide()
+            Dim kasirForm As New FormKasir()
+            kasirForm.ShowDialog()
+            Me.Close() ' Menutup aplikasi sepenuhnya jika form kasir ditutup
         Else
-            MsgBox("Invalid credentials. This attempt has been recorded.", MsgBoxStyle.Critical, "L'Essence – Access Denied")
+            MsgBox("ThenInvalid credentials. This attempt has been recorded.", MsgBoxStyle.Critical, "L'Essence – Access Denied")
         End If
     End Sub
 
@@ -156,4 +161,10 @@ Public Class Form1
     Private Sub picPerfume_Click(sender As Object, e As EventArgs) Handles picPerfume.Click
 
     End Sub
+    Private Sub txtSecurityKey_KeyDown(sender As Object, e As KeyEventArgs) Handles txtSecurityKey.KeyDown
+        If e.KeyCode = Keys.Enter Then
+            btnAuthenticate.PerformClick()
+        End If
+    End Sub
+
 End Class

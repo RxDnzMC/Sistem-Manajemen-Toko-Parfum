@@ -56,8 +56,8 @@ Public Class ProductCard
         End Set
     End Property
 
-    ' Event saat kartu diklik (untuk dimasukkan ke keranjang)
-    Private Sub Card_Clicked(sender As Object, e As EventArgs) Handles MyBase.Click, PicImage.Click, PanelInfo.Click, LblName.Click
-        MessageBox.Show(ParfumName & " dipilih!")
-    End Sub
+    '' Event saat kartu diklik (untuk dimasukkan ke keranjang)
+    'Private Sub Card_Clicked(sender As Object, e As EventArgs) Handles MyBase.Click, PicImage.Click, PanelInfo.Click, LblName.Click
+    '    MessageBox.Show(ParfumName & " dipilih!")
+    'End Sub
 End Class

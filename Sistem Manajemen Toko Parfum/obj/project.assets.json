@@ -200,19 +200,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\Sistem Manajemen Toko Parfum.vbproj",
+      "projectUniqueName": "C:\\Users\\acer\\Sistem-Manajemen-Toko-Parfum-main\\Sistem-Manajemen-Toko-Parfum-main\\Sistem Manajemen Toko Parfum\\Sistem Manajemen Toko Parfum.vbproj",
       "projectName": "Sistem Manajemen Toko Parfum",
-      "projectPath": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\Sistem Manajemen Toko Parfum.vbproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\Sistem-Manajemen-Toko-Parfum\\Sistem Manajemen Toko Parfum\\obj\\",
+      "projectPath": "C:\\Users\\acer\\Sistem-Manajemen-Toko-Parfum-main\\Sistem-Manajemen-Toko-Parfum-main\\Sistem Manajemen Toko Parfum\\Sistem Manajemen Toko Parfum.vbproj",
+      "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\acer\\Sistem-Manajemen-Toko-Parfum-main\\Sistem-Manajemen-Toko-Parfum-main\\Sistem Manajemen Toko Parfum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -238,7 +238,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0-windows7.0": {
@@ -268,7 +268,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

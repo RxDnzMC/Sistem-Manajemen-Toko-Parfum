@@ -80,6 +80,8 @@ Public Class FormInventory
         TambahKolomTeks("merk", "MERK / BRAND", 190)
         TambahKolomTeks("stok", "STOK", 110)
         TambahKolomTeks("harga", "HARGA", 140)
+        dgvInventory.Columns("col_stok").DataPropertyName = ""
+        dgvInventory.Columns("col_harga").DataPropertyName = ""
 
         ' Tombol Edit
         Dim colEdit As New DataGridViewButtonColumn()

@@ -1,4 +1,6 @@
-﻿Public Class SidebarNavigation
+﻿Imports System.ComponentModel.Design
+
+Public Class SidebarNavigation
 
     ' Fungsi untuk menambahkan efek hover pada semua tombol menu
     Private Sub SidebarNavigation_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -32,5 +34,28 @@
         ' Dim frmInventory As New FormInventory()
         ' frmInventory.Show()
         ' Me.FindForm().Hide()
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+    End Sub
+    Private Sub BtnLogout_Click(sender As Object, e As EventArgs) Handles BtnLogout.Click
+        ' 1. Berikan konfirmasi kepada user
+        Dim result As DialogResult = MessageBox.Show("Apakah Anda yakin ingin logout?", "Konfirmasi Logout",
+                                                 MessageBoxButtons.YesNo, MessageBoxIcon.Question)
+
+        If result = DialogResult.Yes Then
+            ' 2. Cari Form utama (FormKasir) yang menampung UserControl ini
+            Dim parentForm As Form = Me.FindForm()
+
+            If parentForm IsNot Nothing Then
+                ' 3. Tampilkan kembali Form Login (Form1)
+                Dim loginForm As New Form1()
+                loginForm.Show()
+                ' 4. Tutup FormKasir
+                parentForm.Close()
+                'Project Shutdown diubah dari main form close, jadi Last Form Closed
+            End If
+        End If
     End Sub
 End Class

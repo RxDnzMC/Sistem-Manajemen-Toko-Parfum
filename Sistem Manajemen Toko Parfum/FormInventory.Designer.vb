@@ -332,7 +332,7 @@ Partial Class FormInventory
         pnlTopBar.Location = New Point(0, 0)
         pnlTopBar.Name = "pnlTopBar"
         pnlTopBar.Size = New Size(990, 75)
-        pnlTopBar.TabIndex = 0
+        pnlTopBar.TabIndex = 2
         ' 
         ' lblStockMgmt
         ' 
@@ -405,7 +405,7 @@ Partial Class FormInventory
         pnlStats.Controls.Add(pnlStatEntries)
         pnlStats.Location = New Point(0, 75)
         pnlStats.Name = "pnlStats"
-        pnlStats.Size = New Size(990, 95)
+        pnlStats.Size = New Size(990, 110)
         pnlStats.TabIndex = 1
         ' 
         ' pnlStatRevenue
@@ -416,7 +416,7 @@ Partial Class FormInventory
         pnlStatRevenue.Controls.Add(lblRevChange)
         pnlStatRevenue.Location = New Point(24, 10)
         pnlStatRevenue.Name = "pnlStatRevenue"
-        pnlStatRevenue.Size = New Size(296, 75)
+        pnlStatRevenue.Size = New Size(296, 90)
         pnlStatRevenue.TabIndex = 0
         ' 
         ' lblRevTitle
@@ -433,6 +433,7 @@ Partial Class FormInventory
         ' lblRevValue
         ' 
         lblRevValue.AutoSize = True
+        lblRevValue.BackColor = Color.Transparent
         lblRevValue.Font = New Font("Garamond", 20F, FontStyle.Bold)
         lblRevValue.ForeColor = Color.FromArgb(CByte(25), CByte(20), CByte(15))
         lblRevValue.Location = New Point(12, 28)
@@ -446,7 +447,7 @@ Partial Class FormInventory
         lblRevChange.AutoSize = True
         lblRevChange.Font = New Font("Segoe UI", 8F)
         lblRevChange.ForeColor = Color.FromArgb(CByte(130), CByte(120), CByte(110))
-        lblRevChange.Location = New Point(14, 56)
+        lblRevChange.Location = New Point(14, 68)
         lblRevChange.Name = "lblRevChange"
         lblRevChange.Size = New Size(91, 19)
         lblRevChange.TabIndex = 2
@@ -460,7 +461,7 @@ Partial Class FormInventory
         pnlStatSlots.Controls.Add(lblSlotsAction)
         pnlStatSlots.Location = New Point(336, 10)
         pnlStatSlots.Name = "pnlStatSlots"
-        pnlStatSlots.Size = New Size(296, 75)
+        pnlStatSlots.Size = New Size(296, 90)
         pnlStatSlots.TabIndex = 1
         ' 
         ' lblSlotsTitle
@@ -477,11 +478,12 @@ Partial Class FormInventory
         ' lblSlotsValue
         ' 
         lblSlotsValue.AutoSize = True
-        lblSlotsValue.Font = New Font("Garamond", 22F, FontStyle.Bold)
+        lblSlotsValue.BackColor = Color.Transparent
+        lblSlotsValue.Font = New Font("Garamond", 26F, FontStyle.Bold)
         lblSlotsValue.ForeColor = Color.FromArgb(CByte(25), CByte(20), CByte(15))
-        lblSlotsValue.Location = New Point(12, 28)
+        lblSlotsValue.Location = New Point(12, 34)
         lblSlotsValue.Name = "lblSlotsValue"
-        lblSlotsValue.Size = New Size(52, 42)
+        lblSlotsValue.Size = New Size(64, 50)
         lblSlotsValue.TabIndex = 1
         lblSlotsValue.Text = "00"
         ' 
@@ -490,7 +492,7 @@ Partial Class FormInventory
         lblSlotsAction.AutoSize = True
         lblSlotsAction.Font = New Font("Segoe UI", 8F)
         lblSlotsAction.ForeColor = Color.FromArgb(CByte(50), CByte(150), CByte(80))
-        lblSlotsAction.Location = New Point(52, 40)
+        lblSlotsAction.Location = New Point(78, 49)
         lblSlotsAction.Name = "lblSlotsAction"
         lblSlotsAction.Size = New Size(76, 19)
         lblSlotsAction.TabIndex = 2
@@ -504,7 +506,7 @@ Partial Class FormInventory
         pnlStatEntries.Controls.Add(lblEntrLabel)
         pnlStatEntries.Location = New Point(648, 10)
         pnlStatEntries.Name = "pnlStatEntries"
-        pnlStatEntries.Size = New Size(296, 75)
+        pnlStatEntries.Size = New Size(296, 90)
         pnlStatEntries.TabIndex = 2
         ' 
         ' lblEntrTitle
@@ -521,11 +523,12 @@ Partial Class FormInventory
         ' lblEntrValue
         ' 
         lblEntrValue.AutoSize = True
-        lblEntrValue.Font = New Font("Garamond", 22F, FontStyle.Bold)
+        lblEntrValue.BackColor = Color.Transparent
+        lblEntrValue.Font = New Font("Garamond", 26F, FontStyle.Bold)
         lblEntrValue.ForeColor = Color.FromArgb(CByte(25), CByte(20), CByte(15))
-        lblEntrValue.Location = New Point(12, 28)
+        lblEntrValue.Location = New Point(12, 34)
         lblEntrValue.Name = "lblEntrValue"
-        lblEntrValue.Size = New Size(52, 42)
+        lblEntrValue.Size = New Size(64, 50)
         lblEntrValue.TabIndex = 1
         lblEntrValue.Text = "00"
         ' 
@@ -534,7 +537,7 @@ Partial Class FormInventory
         lblEntrLabel.AutoSize = True
         lblEntrLabel.Font = New Font("Segoe UI", 8F)
         lblEntrLabel.ForeColor = Color.FromArgb(CByte(140), CByte(130), CByte(120))
-        lblEntrLabel.Location = New Point(50, 40)
+        lblEntrLabel.Location = New Point(78, 49)
         lblEntrLabel.Name = "lblEntrLabel"
         lblEntrLabel.Size = New Size(111, 19)
         lblEntrLabel.TabIndex = 2
@@ -545,12 +548,12 @@ Partial Class FormInventory
         dgvInventory.BackgroundColor = Color.White
         dgvInventory.BorderStyle = BorderStyle.None
         dgvInventory.ColumnHeadersHeight = 29
-        dgvInventory.Location = New Point(24, 178)
+        dgvInventory.Location = New Point(24, 182)
         dgvInventory.Name = "dgvInventory"
         dgvInventory.RowHeadersWidth = 51
         dgvInventory.ScrollBars = ScrollBars.Vertical
-        dgvInventory.Size = New Size(942, 560)
-        dgvInventory.TabIndex = 2
+        dgvInventory.Size = New Size(942, 556)
+        dgvInventory.TabIndex = 0
         ' 
         ' pnlPagination
         ' 

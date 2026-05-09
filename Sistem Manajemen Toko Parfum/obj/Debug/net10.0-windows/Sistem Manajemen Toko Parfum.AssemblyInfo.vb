@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Sistem Manajemen Toko Parfum"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f21b800fcdda68826f69dd2b11a3e70a26b7ecc3"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Sistem Manajemen Toko Parfum"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Sistem Manajemen Toko Parfum"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

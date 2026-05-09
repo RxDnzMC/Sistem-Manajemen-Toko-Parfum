@@ -1,10 +1,14 @@
 ﻿Imports System.ComponentModel
 
 Public Class CartItem
-
+    Public Event ItemUpdated()
+    Public Event ItemRemoved(item As CartItem)
     ' Properti harga satuan (dalam angka asli) untuk perhitungan matematika
     <DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)>
     Public Property UnitPrice As Decimal = 0
+
+    <DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)>
+    Public Property ProductID As String
 
     <DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)>
     Public Property ItemName As String
@@ -33,7 +37,10 @@ Public Class CartItem
         End Get
         Set(value As Integer)
             LblQty.Text = value.ToString()
-            UpdateDisplayPrice() ' Update harga saat qty berubah
+            UpdateDisplayPrice()
+
+            ' Kirim sinyal bahwa ada perubahan harga/kuantitas
+            RaiseEvent ItemUpdated()
         End Set
     End Property
 
@@ -53,24 +60,20 @@ Public Class CartItem
         LblItemPrice.Text = "$" & totalPrice.ToString("N2")
     End Sub
 
-    ' Event Klik Tombol Plus
     Private Sub BtnPlus_Click(sender As Object, e As EventArgs) Handles BtnPlus.Click
         ItemQty += 1
-        ' TODO: Nanti panggil fungsi di FormKasir untuk update Total Keseluruhan
     End Sub
 
     ' Event Klik Tombol Minus
     Private Sub BtnMinus_Click(sender As Object, e As EventArgs) Handles BtnMinus.Click
         If ItemQty > 1 Then
             ItemQty -= 1
-            ' TODO: Nanti panggil fungsi di FormKasir untuk update Total Keseluruhan
         End If
     End Sub
 
     ' Event Klik Tombol Silang (X)
     Private Sub BtnRemove_Click(sender As Object, e As EventArgs) Handles BtnRemove.Click
-        Me.Parent.Controls.Remove(Me)
-        ' TODO: Nanti panggil fungsi di FormKasir untuk update Total Keseluruhan
+        RaiseEvent ItemRemoved(Me)
     End Sub
 
 End Class

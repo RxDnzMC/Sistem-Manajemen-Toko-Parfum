@@ -36,7 +36,7 @@ Partial Class ProductCard
         Me.PicImage.Dock = System.Windows.Forms.DockStyle.Top
         Me.PicImage.Location = New System.Drawing.Point(0, 0)
         Me.PicImage.Name = "PicImage"
-        Me.PicImage.Size = New System.Drawing.Size(260, 260)
+        Me.PicImage.Size = New System.Drawing.Size(190, 190)
         Me.PicImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PicImage.TabIndex = 0
         Me.PicImage.TabStop = False
@@ -49,16 +49,16 @@ Partial Class ProductCard
         Me.PanelInfo.Controls.Add(Me.LblDesc)
         Me.PanelInfo.Controls.Add(Me.LblName)
         Me.PanelInfo.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.PanelInfo.Location = New System.Drawing.Point(0, 260)
+        Me.PanelInfo.Location = New System.Drawing.Point(0, 190)
         Me.PanelInfo.Name = "PanelInfo"
-        Me.PanelInfo.Size = New System.Drawing.Size(260, 80)
+        Me.PanelInfo.Size = New System.Drawing.Size(190, 80)
         Me.PanelInfo.TabIndex = 1
         '
         'LblPrice (Harga di Kanan Atas Panel)
         '
         Me.LblPrice.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.LblPrice.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.LblPrice.Location = New System.Drawing.Point(170, 10)
+        Me.LblPrice.Location = New System.Drawing.Point(100, 10)
         Me.LblPrice.Name = "LblPrice"
         Me.LblPrice.Size = New System.Drawing.Size(80, 15)
         Me.LblPrice.TabIndex = 3
@@ -104,9 +104,9 @@ Partial Class ProductCard
         Me.BackColor = System.Drawing.Color.White
         Me.Controls.Add(Me.PanelInfo)
         Me.Controls.Add(Me.PicImage)
-        Me.Margin = New System.Windows.Forms.Padding(15) ' Memberi jarak antar kartu di FlowLayoutPanel
+        Me.Margin = New System.Windows.Forms.Padding(10) ' Memberi jarak antar kartu di FlowLayoutPanel
         Me.Name = "ProductCard"
-        Me.Size = New System.Drawing.Size(260, 340)
+        Me.Size = New System.Drawing.Size(190, 270)
         Me.Cursor = System.Windows.Forms.Cursors.Hand ' Mengubah kursor jadi tangan saat di-hover
         CType(Me.PicImage, System.ComponentModel.ISupportInitialize).EndInit()
         Me.PanelInfo.ResumeLayout(False)
